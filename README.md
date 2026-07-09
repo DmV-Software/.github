@@ -1,7 +1,5 @@
-# DmV Software
 ![DmV Software Banner](./DmVSoftware_banner.png)
 
-## Define. Measure. Verify.
 ### Engineering Solutions from Concept to Commercial Reality
 
 **DmV Software** is an engineering-driven initiative focused on bridging the gap between abstract technical concepts and reliable, commercial-grade software. Our philosophy is built on three pillars: **Define** requirements, **Measure** performance, and **Verify** results.
@@ -29,4 +27,8 @@ We are always open to collaboration on complex, high-impact projects.
 *   [📄 **Download Professional CV (PDF)**](./CV_Dmytro_Voloshyn.pdf?raw=true)
 
 ---
+
+**Define. Measure. Verify.**
+
 *DmV Software | Senior Java Application Architect & Systems Engineering Expert*
+
