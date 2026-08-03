@@ -25,6 +25,9 @@ We develop specialized engineering tools tailored for professionals:
 
 * **Marine Data Lab:** 
 Scientific tool for Oceanography (Currently in development)
+   *   A complex data-processing application built with **Java/JavaFX**.
+    *   Features robust **relational database integration** for managing large scientific datasets.
+    *   Utilizes **JNI (Java Native Interface)** to bridge high-performance native **C/C++** components with the Java ecosystem for advanced computational tasks.
 
 ### Connect with Us
 We are always open to collaboration on complex, high-impact projects.
