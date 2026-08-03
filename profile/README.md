@@ -24,8 +24,7 @@ We develop specialized engineering tools tailored for professionals:
   * 📖 **[Technical Documentation](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/09_manual_dmv_calculator_pro.pdf?raw=true)**
 
 * **Marine Data Lab:** 
-Scientific tool for Oceanography
-(Currently in development)
+Scientific tool for Oceanography * **(Currently in development)**
 
 ### Connect with Us
 We are always open to collaboration on complex, high-impact projects.
