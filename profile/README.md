@@ -23,7 +23,7 @@ We develop specialized engineering tools tailored for professionals:
   * 🛒 **[Commercial Access (Gumroad)](https://dmvtools.gumroad.com/l/DmVCalculatorPRO)**
   * 📖 **[Technical Documentation](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/09_manual_dmv_calculator_pro.pdf?raw=true)**
 
-*   **Marine Data Lab:** Scientific Tool for Oceanography (Currently in Development)    
+*   **Marine Data Lab:** Scientific Tool for Oceanography Developed, Phase 2: modifications in progress)    
     A sophisticated scientific data-processing application built with Java/JavaFX for oceanographic research and data analysis.
 
     *   Robust relational database integration for managing and processing large scientific datasets.
