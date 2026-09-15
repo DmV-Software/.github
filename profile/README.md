@@ -11,6 +11,7 @@ We specialize in transforming complex industrial workflows into intuitive, user-
 * **Optimized Architecture:** We design robust, modular, and maintainable systems, specializing in Java and JavaFX.
 * **User-Centric Design (UX/UI):** Complex engineering tasks are made intuitive through carefully crafted interfaces.
 * **Industrial Expertise:** Our background in systems engineering ensures precision and stability in every line of code.
+* **AI & Agentic Systems:** We develop AI-driven solutions combining LLM reasoning, tool orchestration, live-data grounding, REST APIs, and resilient multi-step workflows.
 
 ### Key Solutions
 We develop specialized engineering tools tailored for professionals:
@@ -19,7 +20,7 @@ We develop specialized engineering tools tailored for professionals:
   * 🛒 **[Commercial Access (Gumroad)](https://dmvtools.gumroad.com/l/ConcreteWorksCostEstimatorPro)**
   * 📖 **[Technical Documentation](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/08_manual_concrete_works_estimator_pro_en.pdf?raw=true)**
 
-* **DMW Calculator Pro:** High-precision engineering calculations with reliable data processing.
+* **DmW Calculator Pro:** High-precision engineering calculations with reliable data processing.
   * 🛒 **[Commercial Access (Gumroad)](https://dmvtools.gumroad.com/l/DmVCalculatorPRO)**
   * 📖 **[Technical Documentation](https://github.com/dmvoloshyn/dmvoloshyn/blob/main/09_manual_dmv_calculator_pro.pdf?raw=true)**
 
