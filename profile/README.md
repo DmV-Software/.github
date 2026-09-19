@@ -31,6 +31,7 @@ We develop specialized engineering tools tailored for professionals:
     *   JNI (Java Native Interface) integration for connecting high-performance native C/C++ components with the Java ecosystem.
     *   Designed to support computationally intensive scientific data-processing tasks.
 
+    * 📖 **[Technical Documentation](https://github.com/dmvoloshyn/dmvoloshyn/blob/16edb4a0fd028c8c5d0f99f04f32a700044a83c1/10_manual_marine_data_lab.pdf)**
     * 🎥 [**App Demo (YouTube)**](https://youtu.be/U7hxrHVB4qs)
 
 * **NASA Enterprise Mission Control Agent:** AI-Driven Aerospace Data Orchestration
