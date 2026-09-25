@@ -35,7 +35,7 @@ We develop specialized engineering tools tailored for professionals:
     * 🎥 [**App Demo (YouTube)**](https://youtu.be/U7hxrHVB4qs)
 
 * **NASA Enterprise Mission Control Agent:** AI-Driven Aerospace Data Orchestration
-  A multi-domain research agent built with Java, LangChain4j, and Gemini. It orchestrates 10 fragmented NASA APIs through a natural language interface to automate complex data analysis workflows.
+  A multi-domain research agent built with Java, LangChain4j, and Gemini. It orchestrates 10 fragmented NASA APIs with RAG-based knowledge grounding through a natural language interface to automate complex data analysis workflows.
 
     * 🤖 [**Project Repository (GitHub)**](https://github.com/DmV-Software/nasa-enterprise-mission-control-agent)
     * 🎥 [**Solution Demo (YouTube)**](https://youtu.be/v_EfBnrCQ-s)
